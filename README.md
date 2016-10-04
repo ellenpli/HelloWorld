@@ -1,29 +1,29 @@
 # HelloWorld
 
-# Name: Ellen Li
+# Name: Ellen Li and Max Parker
 # HackAThing submission
 # Submission date: 10-4-16
 
-For my HackAThing, I followed the React Native iOS tutorial found at this link: 
+For our HackAThing, we followed the React Native iOS tutorial found at this link: 
   https://www.toptal.com/ios/cold-dive-into-react-native-a-beginners-tutorial
 
 This project creates a simple iOS app that consists of a single button. 
 When pressed, the button will then show an alert with the text "Hi!". 
 The alert can be dismissed by clicking "OK".
 
-I attempted many different tutorials, and ran into trouble with a few of them. 
-I found that most were out of date and difficult to update to React's most 
-recent version. As a result, I decided to complete a much simpler tutorial that
-would allow me to gain a better understanding of styles, rendering, and event handling
+We attempted many different tutorials, and ran into trouble with a few of them. 
+We found that most were out of date and difficult to update to React's most 
+recent version. As a result, we decided to complete a much simpler tutorial that
+would allow us to gain a better understanding of styles, rendering, and event handling
 with React Native. 
 
 The only problem with this submission occurs within the Headline variable. It seems
-as though my code does not register props.caption correctly––despite following the
-tutorial closely. Rather than "Hello . Please click me.", my text box should say:
+as though our code does not register props.caption correctly––despite following the
+tutorial closely. Rather than "Hello . Please click me.", the text box should say:
 "Hello Component. Please Click me." This discrepancy comes from props.caption. 
 
-Overall, I am glad I attempted multiple tutorials (links below) and tried to 
-troubleshoot my code. I am excited to do more complex things with React Native
+Overall, we are glad we attempted multiple tutorials (links below) and tried to 
+troubleshoot our code. We are excited to do more complex things with React Native
 throughout the course of CS98!
 
 Other tutorials attempted:
