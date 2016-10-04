@@ -6,6 +6,11 @@
 
 For our HackAThing, we followed the React Native iOS tutorial found at this link: 
   https://www.toptal.com/ios/cold-dive-into-react-native-a-beginners-tutorial
+  
+Having never used React Native or created an iOS app, we thought that this tutorial
+would serve as solid foundation for our future final project. Our project will be an 
+iOS app with lots of interaction (i.e., event handling), so we figured that a tutorial
+introducing React Native, iOS, and button-handling would suit us well.
 
 This project creates a simple iOS app that consists of a single button. 
 When pressed, the button will then show an alert with the text "Hi!". 
